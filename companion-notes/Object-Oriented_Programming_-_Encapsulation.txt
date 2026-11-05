@@ -1,0 +1,3 @@
+Encapsulation is the concept of wrapping data (variables) and methods (functions) together into a single unit, like a capsule. It restricts direct access to some of an object's components, which is a key aspect of data hiding.
+
+Inheritance is a mechanism where a new class adopts the properties and behaviors of an existing class. A subclass inherits properties and methods from a superclass, helping us reuse code.

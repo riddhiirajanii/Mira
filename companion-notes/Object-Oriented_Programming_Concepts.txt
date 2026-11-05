@@ -1,0 +1,18 @@
+# Object-Oriented Programming (OOP) Concepts
+
+OOP is a programming paradigm based on the concept of "objects," which can contain data and code.
+
+## The Four Pillars of OOP:
+1. Inheritance
+2. Abstraction
+3. Encapsulation
+4. Polymorphism
+
+### 1. Inheritance
+Inheritance allows a new class, known as a subclass, to adopt the properties and behaviors of an existing class, known as a superclass. This promotes code reusability and establishes a natural hierarchy between related classes.
+
+#### Example of Inheritance:
+A base class called "Animal" defines common traits like "eat()" and "sleep()". A subclass called "Dog" inherits these methods and adds its own specific behavior, like "bark()".
+
+### 2. Abstraction
+Abstraction involves hiding complex implementation details and showing only the essential features of an object.
